@@ -1,8 +1,7 @@
 # Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation (ACM MM 2024 Oral)
 This is the official implementation of "Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation" (Accepted at ACM MM 2024 as Oral Presentation, Score: 6/5/5).
 
-**by [Mu Chen](https://scholar.google.com/citations?hl=en&user=eyBlZUUAAAAJ), [Zhedong Zheng](https://zdzheng.xyz/), and [Yi Yang](https://scholar.google.com.au/citations?user=RMSuNFwAAAAJ&hl=en), 
-</div>
+**by [Mu Chen](https://scholar.google.com/citations?hl=en&user=eyBlZUUAAAAJ), [Zhedong Zheng](https://zdzheng.xyz/), and [Yi Yang](https://scholar.google.com.au/citations?user=RMSuNFwAAAAJ&hl=en),**
 
 ## ArXiv Version of [DCV](https://arxiv.org/abs/2311.12682)
 
@@ -20,7 +19,7 @@ Coming soon...
 
 If you find this work useful in your research, please star our repository and consider citing:
 
-```
+```bib
 @inproceedings{chen2024transferring,
   title={Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation},
   author={Chen, Mu and Zheng, Zhedong and Yang, Yi },
